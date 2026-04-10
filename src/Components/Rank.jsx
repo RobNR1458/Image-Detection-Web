@@ -1,6 +1,6 @@
 export default function Rank() {
   return (
-    <div className="self-center">
+    <div className="h-auto self-end">
       <div className="mx-auto inline-block text-center font-mono text-[25px] text-white">
         {"Rob, your current rank is..."}
       </div>
